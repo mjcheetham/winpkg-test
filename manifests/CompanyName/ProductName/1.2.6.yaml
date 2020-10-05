@@ -1,0 +1,12 @@
+Id: 6b3a55e0261b0304143f805a24924d0c1c44524821305f31d9277843b8a10f4e
+Version: 1.2.6
+Name: Test Product
+Publisher: Test Publisher
+Homepage: https://example.com/test
+License: Copyright (C) Test Company
+Description: The test product description.
+Installers:
+    - Arch: x86
+      Url: https://github.com/mjcheetham/workflow-test/releases/download/v1.2.6/test-1.2.6.exe
+      InstallerType: Inno
+      Sha256: 6b3a55e0261b0304143f805a24924d0c1c44524821305f31d9277843b8a10f4e
