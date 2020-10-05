@@ -1,0 +1,12 @@
+Id: {{id}}
+Version: {{version.major_minor_patch}}
+Name: Test Product
+Publisher: Test Publisher
+Homepage: https://example.com/test
+License: Copyright (C) Test Company
+Description: The test product description.
+Installers:
+    - Arch: x86
+      Url: {{url}}
+      InstallerType: Inno
+      Sha256: {{sha256}}
